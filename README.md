@@ -12,4 +12,4 @@
 
 **지듣노**
 
-<iframe width="720" height="480" src="https://www.youtube.com/embed/9qRCARM_LfE" title="あいみょん - 愛を伝えたいだとか 【OFFICIAL MUSIC VIDEO】" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Video Label](http://img.youtube.com/vi/9qRCARM_LfE/0.jpg)](https://youtu.be/9qRCARM_LfE)
