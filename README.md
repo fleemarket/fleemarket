@@ -1,16 +1,15 @@
-### Hi there 👋
+# 반갑습니다 👋
 
-<!--
-**fleemarket/fleemarket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 파이썬 공부중
+- 관심분야 : 데이터 분석, 수집, 유용한 프로그램 만들기
+- (꿈만 큰)계획중인 프로젝트 : SSAFY 생활 특화 프로그램 만들기, API 따와서 사이트 만들기
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**우보천리**
+
+---
+
+**지듣노**
+
+<iframe width="720" height="480" src="https://www.youtube.com/embed/9qRCARM_LfE" title="あいみょん - 愛を伝えたいだとか 【OFFICIAL MUSIC VIDEO】" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
