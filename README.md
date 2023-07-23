@@ -16,3 +16,5 @@
 **지듣노**
 
 [![Video Label](http://img.youtube.com/vi/9qRCARM_LfE/0.jpg)](https://youtu.be/9qRCARM_LfE)
+
+[![Video Label](http://img.youtube.com/vi/E244Db-Cd5I/0.jpg)](https://youtu.be/E244Db-Cd5I)
