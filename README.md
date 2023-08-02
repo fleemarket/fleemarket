@@ -8,7 +8,7 @@
 
 **우보천리**
 
-- [1일 1+a 백준](https://www.acmicpc.net/user/ensiso)
+- ([1일 1 + a 백준](https://solved.ac/profile/ensiso))
 - 1일 1 커밋 (권장)
 ---
 
