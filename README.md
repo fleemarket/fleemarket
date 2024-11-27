@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Just+Do+It!;)](https://git.io/typing-svg)
 
-여러가지 상황을 마주하며 얻은 적응과, 경험 그를 통해 얻은 지식으로 끊임없이 성장하는 개발자를 목표로 합니다.
+여러가지 상황을 마주하며 얻은 적응과, 경험을 통해 얻은 지식으로 끊임없이 성장하는 개발자를 목표로 합니다.
 
 
 # 사용 기술 (작성 중)
