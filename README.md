@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Just+Do+It!;)](https://git.io/typing-svg)
 
 여러가지 상황을 마주하며 적응한 경험을 통해 얻은 지식으로 끊임없이 성장하는 개발자를 목표로 합니다.
-저는 프론트엔드 개발과, 디지털 트윈 개발을 주로 담당하였습니다.
+저는 프론트엔드와, 디지털 트윈 개발을 주로 담당하고 있습니다.
 
 
 # 사용 기술
@@ -17,7 +17,7 @@
 
 ## Design
 
-<img src="https://img.shields.io/badge/figma-#556472.svg?style=for-the-badge&logo=Figma&logoColor=F24E1E" /> 
+<img src="https://img.shields.io/badge/figma-556472.svg?style=for-the-badge&logo=Figma&logoColor=F24E1E" /> 
 
 # Github Stat
 
