@@ -4,7 +4,7 @@
 
 여러가지 상황을 마주하며 적응한 경험을 통해 얻은 지식으로 끊임없이 성장하는 개발자를 목표로 합니다.
 
-저는 프론트엔드와, 디지털 트윈 개발을 주로 담당하고 있습니다.
+저는 현재 전력거래 플랫폼을 개발하는 회사에서 일하고 있으며, 프론트엔드와, 디지털 트윈 개발을 주로 담당하고 있습니다.
 
 
 # 사용 기술
@@ -16,16 +16,22 @@
 
 <img src="https://img.shields.io/badge/Unity-aaaaaa.svg?style=for-the-badge&logo=Unity&logoColor=111111" /> 
 
-## Design
+## Design & 3D Modeling
 
-<img src="https://img.shields.io/badge/figma-354452.svg?style=for-the-badge&logo=Figma&logoColor=F24E1E" /> 
+<img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge" /> <img src="https://img.shields.io/badge/Fusion 360-E27E4E.svg?style=for-the-badge" /> 
 
 ## Tool
 
-<img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=fff" /> 
-
+<img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=fff" /> <img src="https://img.shields.io/badge/Notion-aaaaaa.svg?style=for-the-badge" />  
 
 
 # Github Stat
 
 [![Fleemarket's GitHub stats](https://github-readme-stats.vercel.app/api?username=fleemarket)](https://github.com/anuraghazra/github-readme-stats)
+
+# 개인 프로젝트
+|제목|내용|링크|
+|------|---|---|
+|종토방은 됐어요|네이버 주식을 더 사용하기 좋게 만드는 웨일 확장앱|[링크](https://github.com/fleemarket/jongto_cleaner)
+
+
