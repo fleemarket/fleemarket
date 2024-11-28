@@ -6,7 +6,6 @@
 
 저는 현재 프론트엔드와, 디지털 트윈 개발을 주로 담당하고 있습니다.
 
-개인프로젝트는 제가 필요한 것을 먼저 만들고, 다른 사람이 잘 쓸 수 있도록 개선하는 방식으로 발전하고 있습니다.
 
 # 사용 기술
 
@@ -21,9 +20,10 @@
 
 <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge" /> <img src="https://img.shields.io/badge/Fusion 360-E27E4E.svg?style=for-the-badge" /> 
 
-## Tool
+## etc
 
-<img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=fff" /> <img src="https://img.shields.io/badge/Notion-aaaaaa.svg?style=for-the-badge" />  
+<img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=fff" /> <img src="https://img.shields.io/badge/Notion-aaaaaa.svg?style=for-the-badge" /> <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=Unity&logoColor=fff" /> 
+
 
 
 # Github Stat
